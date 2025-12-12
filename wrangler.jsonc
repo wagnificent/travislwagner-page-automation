@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "vite-reference",
+	"name": "travis-wagner-portfo-0ry0v4-ugflxvv59yhspq",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
