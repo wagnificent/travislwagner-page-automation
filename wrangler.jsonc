@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "travis-wagner-portfo-0ry0v4-ugflxvv59yhspq",
+	"name": "travislwagner-page-automation",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
