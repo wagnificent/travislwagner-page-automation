@@ -2,7 +2,7 @@
 
 A high-end, single-page portfolio and lead generation website for Travis Wagner, a freelancer specializing in mapping and automating processes for local businesses and non-profits. The site features a minimalist design with whitespace, clear typography, and subtle animations to convey professionalism and efficiency. It educates visitors on process mapping, automation (including innovative lead handling), and captures leads via a sleek contact form.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/wagnificent/travislwagner-page-automation)
 
 ## Features
 
@@ -102,7 +102,7 @@ worker/             # Cloudflare Worker routes (API)
 
 Deploy instantly to Cloudflare Workers/Pages with zero configuration.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/wagnificent/travislwagner-page-automation)
 
 ### Manual Deployment
 
